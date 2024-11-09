@@ -1,5 +1,5 @@
 # lock-contention-detector
-Lock Contention Detector can detect potential lock contention issues from the Codebase
+Lock Contention Detector can detect potential lock contention issues from the java Codebase and also generate Recommendations to fix the lock contention issue
 
 # Requirements
 Python3, pip, and javalang  (pip install javalang)
